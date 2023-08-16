@@ -19,6 +19,3 @@ export const getForks = async (): Promise<Fork[]> => {
 
   return forks
 }
-
-export const getDeployments = async (): Promise<any> => {
-}
