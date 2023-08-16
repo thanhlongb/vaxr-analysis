@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vaxr-analysis/static/css/main.3f2ecf6f.css",
-    "main.js": "/vaxr-analysis/static/js/main.75072408.js",
+    "main.js": "/vaxr-analysis/static/js/main.ad5a7aea.js",
     "index.html": "/vaxr-analysis/index.html",
     "main.3f2ecf6f.css.map": "/vaxr-analysis/static/css/main.3f2ecf6f.css.map",
-    "main.75072408.js.map": "/vaxr-analysis/static/js/main.75072408.js.map"
+    "main.ad5a7aea.js.map": "/vaxr-analysis/static/js/main.ad5a7aea.js.map"
   },
   "entrypoints": [
     "static/css/main.3f2ecf6f.css",
-    "static/js/main.75072408.js"
+    "static/js/main.ad5a7aea.js"
   ]
 }
